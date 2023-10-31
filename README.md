@@ -1,2 +1,2 @@
 # flipper_zero_fmf_songs
-Custom Flipper Zero .fmf transcribed songs
+This repo is for any custom Flipper Zero .fmf songs that I make. Feel free to download and add to your device!
